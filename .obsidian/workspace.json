@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "a382fc471c26a63f",
+    "type": "split",
+    "children": [
+      {
+        "id": "07d10e0dcba4a912",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02500b35ef96e56a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/sources/source-buoi-hoc-marketing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "source-buoi-hoc-marketing"
+            }
+          }
+        ]
+      },
+      {
+        "id": "72db7baaf0151772",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2583bd56eef05af4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "wiki/sources/source-buoi-hoc-marketing.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.3804375852879973,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of source-buoi-hoc-marketing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87de261fa9e00546",
+    "type": "split",
+    "children": [
+      {
+        "id": "3609061616498094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cccd7e4fbbb8ab2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "01493720b603880f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "da",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c1ba2dbfda8bdf7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c33f700e9623c57",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b42de4149dc40c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51794d35f9c2978e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/sources/source-buoi-hoc-marketing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for source-buoi-hoc-marketing"
+            }
+          },
+          {
+            "id": "5e78eebbfafcea47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/sources/source-buoi-hoc-marketing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from source-buoi-hoc-marketing"
+            }
+          },
+          {
+            "id": "1cf9359f878f7317",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c7088a357803b3d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b37f3686600496ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/sources/source-buoi-hoc-marketing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of source-buoi-hoc-marketing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7cccd7e4fbbb8ab2",
+  "lastOpenFiles": [
+    "wiki/concepts/quan-ly-khach-hang-spa.md",
+    "wiki/sources/source-buoi-hoc-marketing.md",
+    "wiki/index.md",
+    "wiki/concepts/cham-soc-da-co-ban.md",
+    "raw/notes/buoi-hoc-marketing-spa.md",
+    "raw/articles/karpathy-second-brain.md",
+    "wiki/concepts/second-brain.md",
+    "wiki/entities/andrej-karpathy.md",
+    "wiki/comparisons/rag-vs-llm-wiki.md",
+    "wiki/sources/source-buoi-hoc-cham-soc-da.md",
+    "wiki/concepts/hoat-chat-skincare.md",
+    "CLAUDE.md",
+    "wiki/concepts/marketing-spa.md"
+  ]
+}
