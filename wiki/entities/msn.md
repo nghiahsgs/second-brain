@@ -2,11 +2,11 @@
 title: "MSN — Tập đoàn Masan"
 type: entity
 sources:
-  - raw/articles/stocks/msn-wikipedia.md
-  - raw/articles/stocks/msn-simplize.md
+  - "[[source-msn]]"
 related:
   - "[[tieu-dung]]"
   - "[[ban-le]]"
+  - "[[pham-nhat-vuong]]"
   - "[[vn-stock-101]]"
 created: 2026-04-27
 updated: 2026-04-27
@@ -31,13 +31,13 @@ confidence: high
 | Công ty con | Lĩnh vực | Vai trò |
 |-------------|----------|---------|
 | **Masan Consumer** | Thực phẩm/đồ uống | Cash cow chính |
-| **WinCommerce** | Bán lẻ (WinMart, WinMart+) | Mua từ Vingroup 2019, đang xoay sở |
+| **WinCommerce** | Bán lẻ (WinMart, WinMart+) | Mua từ Vingroup 2019 |
 | **Phúc Long** | Trà sữa | Mua 51% năm 2022 (~110 triệu USD) |
 | **Masan MEATLife** | Thịt sạch | Đã thoái dần |
-| **Masan High-Tech Materials** | Wolfram | Khoáng sản hi-tech |
+| **Masan High-Tech Materials** | Wolfram | Khoáng sản hi-tech (EV/AI chip) |
 | **Techcombank** | Ngân hàng | Cổ đông chiến lược |
 
-## Thị phần Masan Consumer (2016 — số gần đây)
+## Thị phần Masan Consumer (~2016-2020)
 
 | Sản phẩm | Thị phần |
 |----------|----------|
@@ -45,29 +45,29 @@ confidence: high
 | Nước tương | >70% |
 | Cà phê hòa tan | 40% (Vinacafé, Wakeup 247) |
 
-## Snapshot 2026-04-27
+## Snapshot 2026-04-27 (xem [[source-msn]])
 
 | Chỉ số | Giá trị |
 |--------|---------|
 | Giá | 77.200 VND (-1,28%) |
 | Vốn hóa | 117.381 tỷ VND |
-| P/E | **28,57** (cao — định giá theo kỳ vọng WinCommerce hồi phục) |
+| P/E | **28,57** (cao — định giá theo kỳ vọng WinCommerce) |
 | P/B | 3,32 |
 | EPS | 2.841 |
-| Cổ tức | Không thường xuyên (tái đầu tư) |
 
 ## Vì sao đáng quan tâm
 
-1. **Sở hữu hệ sinh thái tiêu dùng end-to-end** — sản xuất (Masan Consumer) → bán lẻ (WinMart) → fintech (Techcombank, Saigon Securities cổ phần).
-2. **WinCommerce bước ngoặt 2024** — đã có lãi sau nhiều năm lỗ, mở chuỗi WIN tích hợp WinMart + Phúc Long + dược phẩm.
-3. **Wolfram cho thị trường EV/AI chip** — Masan High-Tech Materials có vị thế chiến lược.
+1. **Hệ sinh thái tiêu dùng end-to-end** — sản xuất → bán lẻ → fintech
+2. **WinCommerce bước ngoặt 2024** — đã có lãi sau nhiều năm lỗ
+3. **Wolfram cho EV/AI chip** — vị thế chiến lược
 
 ## Rủi ro chính
 
-- **Cấu trúc holding phức tạp** — định giá khó, nhà đầu tư áp "holding discount" 20-30%
+- **Cấu trúc holding phức tạp** — nhà đầu tư áp "holding discount" 20-30%
 - **Đòn bẩy cao** — nợ tổng tập đoàn lớn từ thương vụ mua VinCommerce
-- **Biên Masan Consumer giảm** — TH True Mart, Cholimex cạnh tranh nước mắm/tương
+- **Biên Masan Consumer giảm** — TH True Mart, Cholimex cạnh tranh
 
 ## Liên kết
+- Nguồn: [[source-msn]]
 - Ngành: [[tieu-dung]], [[ban-le]]
 - Khái niệm: [[vn-stock-101]]

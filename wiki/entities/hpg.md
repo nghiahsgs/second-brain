@@ -2,8 +2,7 @@
 title: "HPG — Tập đoàn Hòa Phát"
 type: entity
 sources:
-  - raw/articles/stocks/hpg-wikipedia.md
-  - raw/articles/stocks/hpg-simplize.md
+  - "[[source-hpg]]"
 related:
   - "[[thep]]"
   - "[[vn-stock-101]]"
@@ -26,8 +25,8 @@ confidence: high
 | Tên đầy đủ | Công ty CP Tập đoàn Hòa Phát |
 | Thành lập | 08/1992 |
 | Niêm yết | HOSE, 15/11/2007 |
-| Người sáng lập & Chủ tịch | Trần Đình Long (gia đình nắm 35,02%) |
-| Khu sản xuất chính | Khu Liên hợp Dung Quất (Quảng Ngãi) |
+| Sáng lập & Chủ tịch | Trần Đình Long (gia đình nắm 35,02%) |
+| Khu sản xuất chính | Khu Liên hợp Dung Quất (Quảng Ngãi) — 4 triệu tấn/năm |
 
 ## 5 lĩnh vực
 1. **Gang thép** (chủ lực — 90% doanh thu/lợi nhuận)
@@ -36,33 +35,34 @@ confidence: high
 4. Bất động sản
 5. Điện máy gia dụng
 
-## Snapshot 2026-04-27
+## Snapshot 2026-04-27 (xem [[source-hpg]])
 
 | Chỉ số | Giá trị | Đọc thế nào |
 |--------|---------|-------------|
 | Giá | 27.900 VND (+0,36%) | |
 | Vốn hóa | 214.145 tỷ VND | Top 5 HOSE |
-| P/E | 13,86 | Cẩn thận: P/E thấp ở đỉnh chu kỳ là TÍN HIỆU CẢNH BÁO |
+| P/E | 13,86 | ⚠️ P/E thấp ở đỉnh chu kỳ là CẢNH BÁO |
 | P/B | 1,66 | Hợp lý cho doanh nghiệp tài sản nặng |
-| KLGD trung bình | 39,5 triệu cp/ngày | **Thanh khoản cao nhất nhóm thép** |
-| Cổ tức | Cổ phiếu thưởng 20% (06/2025) | |
+| KLGD trung bình | 39,5 triệu cp/ngày | **Top thanh khoản nhóm thép** |
 
 ## Vì sao đáng quan tâm
 
-1. **Quy mô vượt trội** — Dung Quất 4 triệu tấn/năm, công nghệ lò cao tích hợp tự nhiên có biên thấp hơn lò điện nhưng quy mô bù lại.
-2. **Tài sản trong nước** — phần lớn nguyên liệu nhập, sản phẩm tiêu thụ nội địa → benefit từ chu kỳ đầu tư công VN, BĐS hồi phục.
-3. **Chu kỳ đầu tư công 2026** — chính phủ đẩy mạnh cao tốc, sân bay → cầu thép tăng.
+1. **Quy mô vượt trội** — Dung Quất 4 triệu tấn/năm
+2. **Hưởng lợi đầu tư công 2026** — cao tốc Bắc-Nam, Long Thành, đường sắt cao tốc
+3. **Tài sản trong nước** — phần lớn sản phẩm tiêu thụ nội địa
 
 ## Rủi ro chính (rất quan trọng cho cổ phiếu chu kỳ!)
 
-- **Giá thép Trung Quốc** — TQ dư thừa thép, xuất khẩu giá rẻ ép biên HPG
-- **73% nguyên liệu nhập** (quặng sắt từ Úc, than từ Indo) — rủi ro tỷ giá USD
-- **Cyclical earnings** — 2021 lãi 34.521 tỷ; 2022-2023 có thời điểm lỗ. Đừng nhìn P/E hiện tại tin vào tương lai!
-- **Phòng vệ thương mại** — EU áp CBAM 2026 → xuất khẩu khó hơn
+- **Giá thép Trung Quốc** — TQ dư thừa thép, ép biên HPG
+- **73% nguyên liệu nhập** (quặng sắt Úc, than Indo) — rủi ro tỷ giá USD
+- **Cyclical earnings** — 2021 lãi 34.521 tỷ; 2022-2023 có thời điểm lỗ
+- **CBAM EU 2026** — thuế carbon biên giới làm khó xuất khẩu
 
 ## Quy tắc cho cổ phiếu chu kỳ
-"P/E thấp khi đỉnh chu kỳ, P/E cao khi đáy chu kỳ" — đừng dùng P/E để định giá HPG. Dùng P/B kết hợp giá thép HRC tham chiếu.
+> P/E thấp khi đỉnh chu kỳ, P/E cao khi đáy chu kỳ.
+> Đừng dùng P/E để định giá HPG — dùng P/B + giá HRC tham chiếu.
 
 ## Liên kết
+- Nguồn: [[source-hpg]]
 - Ngành: [[thep]]
 - Khái niệm: [[co-phieu-chu-ky]], [[vn-stock-101]], [[chi-so-tai-chinh]]

@@ -2,10 +2,8 @@
 title: "VIC vs VNM — Tăng trưởng vs Cổ tức"
 type: comparison
 sources:
-  - raw/articles/stocks/vic-wikipedia.md
-  - raw/articles/stocks/vic-simplize.md
-  - raw/articles/stocks/vnm-wikipedia.md
-  - raw/articles/stocks/vnm-simplize.md
+  - "[[source-vic]]"
+  - "[[source-vnm]]"
 related:
   - "[[vic]]"
   - "[[vnm]]"
@@ -80,6 +78,7 @@ Trước khi mua, tự hỏi:
 4. Có cần dòng tiền không hay tái đầu tư?
 
 ## Liên kết
-- [[vic]], [[vnm]]
-- [[co-phieu-tang-truong]], [[co-phieu-co-tuc]]
+- Nguồn: [[source-vic]], [[source-vnm]]
+- Mã: [[vic]], [[vnm]]
+- Khái niệm: [[co-phieu-tang-truong]], [[co-phieu-co-tuc]]
 - [[chi-so-tai-chinh]], [[vn-stock-101]]

@@ -23,7 +23,7 @@ Cổ phiếu mà **lợi nhuận biến động mạnh theo chu kỳ kinh tế h
 | Ngành | Mã VN | Theo dõi |
 |-------|-------|---------|
 | **Thép** ([[thep]]) | [[hpg]], HSG, NKG | Giá HRC TQ |
-| **Hóa chất** | DGC (phốt pho), DCM, DPM | Giá phốt pho, urê |
+| **Hóa chất** | DGC, DCM, DPM | Giá phốt pho, urê |
 | **BĐS** ([[bat-dong-san]]) | [[vic]], VHM, NVL, DXG | Lãi suất, pháp lý |
 | **Ngân hàng** ([[ngan-hang]]) | [[vcb]], TCB, MBB | Tăng trưởng tín dụng |
 | **Dầu khí** ([[nang-luong-dau-khi]]) | PVD, PVS, BSR | Giá Brent |
@@ -74,7 +74,7 @@ Người mua HPG ở P/E 5 năm 2021 đã ăn -50%.
 ### Quy tắc
 - Mua khi sợ, bán khi tham
 - Không hold qua 2 chu kỳ
-- Phòng thủ với position sizing — không quá 15-20% cho 1 mã chu kỳ
+- Position sizing — không quá 15-20% cho 1 mã chu kỳ
 
 ## Liên kết
 - [[hpg]], [[thep]], [[bat-dong-san]], [[nang-luong-dau-khi]]

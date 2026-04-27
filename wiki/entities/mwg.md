@@ -2,8 +2,7 @@
 title: "MWG — Đầu tư Thế Giới Di Động"
 type: entity
 sources:
-  - raw/articles/stocks/mwg-wikipedia.md
-  - raw/articles/stocks/mwg-simplize.md
+  - "[[source-mwg]]"
 related:
   - "[[ban-le]]"
   - "[[vn-stock-101]]"
@@ -33,12 +32,12 @@ confidence: high
 |-------|---------|
 | **Thegioididong.com** | Cash cow — điện thoại di động (đang bão hòa) |
 | **Điện Máy Xanh** | Cash cow — điện máy gia dụng |
-| **Bách Hóa Xanh** | **Tăng trưởng** — siêu thị thực phẩm tươi (đã có lãi từ 2024) |
+| **Bách Hóa Xanh** | **Tăng trưởng** — siêu thị thực phẩm tươi (đã có lãi 2024) |
 | Nhà Thuốc An Khang | Đang thu hẹp — chưa hiệu quả |
 | AVAKids | Nhỏ, đang thử nghiệm |
 | **EraBlue** | Mở rộng quốc tế — Indonesia (từ 2023) |
 
-## Snapshot 2026-04-27
+## Snapshot 2026-04-27 (xem [[source-mwg]])
 
 | Chỉ số | Giá trị |
 |--------|---------|
@@ -51,17 +50,18 @@ confidence: high
 
 ## Vì sao đáng quan tâm
 
-1. **Bách Hóa Xanh đã có lãi** — đây là step-change. BHX là chuỗi grocery hiện đại lớn nhất miền Nam, cạnh tranh trực tiếp WinMart.
-2. **Mô hình store-as-warehouse** — ít kho trung gian, biên gross thấp nhưng vòng quay nhanh.
-3. **EraBlue Indonesia** — nếu thành công, có thể replicate model ra Đông Nam Á.
+1. **Bách Hóa Xanh đã có lãi** — step-change. BHX là chuỗi grocery hiện đại lớn nhất miền Nam
+2. **Mô hình store-as-warehouse** — biên gross thấp nhưng vòng quay nhanh
+3. **EraBlue Indonesia** — nếu thành công, replicate model ra ĐNA
 
 ## Rủi ro chính
 
-- **Bão hòa điện thoại** — TGDD và ĐMX đã đi ngang doanh thu nhiều năm
+- **Bão hòa điện thoại** — TGDD và ĐMX đi ngang doanh thu nhiều năm
 - **An Khang chưa lãi** — kéo theo chi phí
-- **Cạnh tranh thương mại điện tử** — Shopee, Lazada, Tiki ăn dần thị phần điện máy
-- **Lãi suất cao = chi phí thuê tăng** — bán lẻ rất nhạy
+- **Cạnh tranh TMĐT** — Shopee, Lazada, Tiki, TikTok Shop
+- **Lãi suất cao = chi phí thuê tăng**
 
 ## Liên kết
+- Nguồn: [[source-mwg]]
 - Ngành: [[ban-le]]
 - Khái niệm: [[vn-stock-101]], [[chi-so-tai-chinh]]

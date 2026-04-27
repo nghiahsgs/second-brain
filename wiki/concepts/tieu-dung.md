@@ -22,13 +22,13 @@ Ngành phòng thủ điển hình — biến động thấp, cổ tức đều. 
 - **VNM** — [[vnm|Vinamilk]] — số 1 thị phần
 - IDP — Sữa Quốc tế — đang tăng nhanh
 - VLC — Vilico
-- TH — TH True Milk (chưa niêm yết)
 - Mộc Châu Milk — niêm yết qua MCM
+- TH — TH True Milk (chưa niêm yết)
 
 ### Bia, nước giải khát
 - **SAB** — Sabeco (Saigon Beer) — số 1 bia VN, ThaiBev nắm 53,6%
 - **BHN** — Habeco
-- **VEA** — Vietnam Engine and Agricultural Machinery (tham gia qua Honda VN)
+- **VEA** — Vietnam Engine and Agricultural Machinery (qua Honda VN)
 
 ### Thực phẩm chế biến
 - **MSN** — [[msn|Masan]] — Chinsu, Nam Ngư, Omachi, Vinacafé
@@ -53,9 +53,9 @@ Ngành phòng thủ điển hình — biến động thấp, cổ tức đều. 
 
 ## Rủi ro
 
-- **Lạm phát thực phẩm** — biên doanh nghiệp tiêu dùng dao động theo giá nguyên liệu (sữa bột, đường, dầu, sợi)
+- **Lạm phát thực phẩm** — biên dao động theo giá nguyên liệu (sữa bột, đường, dầu, sợi)
 - **Tỷ giá** — nguyên liệu nhập USD, bán VND
-- **Cạnh tranh tăng** — Th True, GreenFeed, hàng nhập Thái
+- **Cạnh tranh tăng** — TH True, GreenFeed, hàng nhập Thái
 
 ## Đặc điểm cổ phiếu
 - **Phòng thủ**: ROE cao (15-25%), biên gộp 30-50%, cổ tức 5-10%

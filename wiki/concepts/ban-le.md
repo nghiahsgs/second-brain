@@ -52,7 +52,7 @@ Ngành tăng trưởng + nhạy với chu kỳ tiêu dùng. Hưởng lợi từ 
 
 ## Driver
 
-1. **Số hóa & online** — mọi nhà bán lẻ phải có omni-channel; thương mại điện tử tăng trưởng 25%/năm
+1. **Số hóa & online** — mọi nhà bán lẻ phải có omni-channel; TMĐT tăng trưởng 25%/năm
 2. **Đô thị hóa** — bán lẻ hiện đại thay thế chợ truyền thống
 3. **Trung lưu mở rộng** — chuyển sang sản phẩm cao cấp (PNJ trang sức, Long Châu dược chuẩn)
 4. **Mở rộng quốc tế** — MWG sang Indonesia (EraBlue), FRT chưa rõ kế hoạch

@@ -2,8 +2,7 @@
 title: "VNM — Vinamilk"
 type: entity
 sources:
-  - raw/articles/stocks/vnm-wikipedia.md
-  - raw/articles/stocks/vnm-simplize.md
+  - "[[source-vnm]]"
 related:
   - "[[tieu-dung]]"
   - "[[vn-stock-101]]"
@@ -16,7 +15,7 @@ confidence: high
 # VNM — Vinamilk
 
 ## Một câu mô tả
-**Doanh nghiệp sữa số 1 Việt Nam** với 54,5% thị phần sữa nước; cổ phiếu cổ tức tiêu biểu (yield ~7,9%) — phù hợp danh mục phòng thủ.
+**Doanh nghiệp sữa số 1 Việt Nam** với 54,5% thị phần sữa nước; cổ phiếu cổ tức tiêu biểu (yield 7,9%) — phù hợp danh mục phòng thủ.
 
 ## Profile
 
@@ -37,7 +36,7 @@ confidence: high
 | Sữa bột | 40,6% |
 | Sữa chua uống | 33,6% |
 
-## Snapshot 2026-04-27
+## Snapshot 2026-04-27 (xem [[source-vnm]])
 
 | Chỉ số | Giá trị | Đọc thế nào |
 |--------|---------|-------------|
@@ -45,21 +44,21 @@ confidence: high
 | Vốn hóa | 128.323 tỷ VND | Top 10 HOSE |
 | P/E | 13,64 | Hợp lý cho cổ phiếu trưởng thành |
 | P/B | 4,18 | Cao — thương hiệu là tài sản chính |
-| EPS | 4.502 | Ổn định |
 | **Cổ tức** | **7,9%** | **Cao bậc nhất HOSE** |
 
 ## Vì sao đáng quan tâm
 
-1. **"Cash cow" điển hình** — biên lợi nhuận cao, ít cần vốn đầu tư, trả cổ tức lớn.
-2. **Thương hiệu đã ăn sâu** — xuất hiện tại 63 quốc gia, Mỹ và Trung Đông là thị trường mở.
-3. **Trang trại bò organic** — 130.000 con, 15 trang trại công nghệ cao → barrier vs sữa nhập.
+1. **"Cash cow" điển hình** — biên cao, ít cần vốn đầu tư, trả cổ tức lớn
+2. **Thương hiệu sâu** — hoạt động 63 quốc gia
+3. **130.000 con bò sữa** tại 15 trang trại công nghệ cao → barrier vs sữa nhập
 
 ## Rủi ro chính
 
 - **Tăng trưởng chậm** — thị phần đã rất cao, khó tăng nội địa
-- **Thay đổi hành vi tiêu dùng** — Gen Z chuyển sang sữa thực vật (oat, almond) → VNM đã ra dòng plant-based nhưng còn nhỏ
-- **Cạnh tranh giá thấp** — Th True Milk, Mộc Châu Milk, Dutch Lady ép biên
+- **Hành vi tiêu dùng đổi** — Gen Z chuyển sang sữa thực vật (oat, almond)
+- **Cạnh tranh giá** — TH True Milk, Mộc Châu Milk, Dutch Lady
 
 ## Liên kết
+- Nguồn: [[source-vnm]]
 - Ngành: [[tieu-dung]]
 - Khái niệm: [[co-phieu-co-tuc]], [[vn-stock-101]]

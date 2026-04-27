@@ -21,11 +21,11 @@ Ngành chia 2 nhóm: **dầu khí** (chu kỳ giá dầu) và **điện** (phòn
 | Mã | Tên | Vai trò |
 |----|-----|---------|
 | **GAS** | [[gas|PV GAS]] | Phân phối khí, LPG, LNG |
-| **PVS** | PTSC | Dịch vụ kỹ thuật dầu khí (kéo, lắp giàn) |
+| **PVS** | PTSC | Dịch vụ kỹ thuật dầu khí |
 | **PVD** | PV Drilling | Khoan dầu khí |
 | **PVT** | PV Trans | Vận tải dầu khí |
 | **PVB** | Bọc ống Dầu khí | |
-| **POW** | PV Power | Điện khí, điện than (lớn nhất nhóm điện) |
+| **POW** | PV Power | Điện khí, điện than |
 | **DCM** | Đạm Cà Mau | Phân đạm từ khí |
 | **DPM** | Đạm Phú Mỹ | Phân đạm |
 | **BSR** | Lọc hóa dầu Bình Sơn | Nhà máy lọc dầu Dung Quất |
@@ -45,7 +45,6 @@ Ngành chia 2 nhóm: **dầu khí** (chu kỳ giá dầu) và **điện** (phòn
 - **VSH** — Vĩnh Sơn-Sông Hinh
 - **TBC** — Thác Bà
 - **TMP** — Thác Mơ
-- **GEG** — Gia Lai Electricity (NLTT)
 
 ### Năng lượng tái tạo
 - **GEG** — điện gió, mặt trời
@@ -55,7 +54,6 @@ Ngành chia 2 nhóm: **dầu khí** (chu kỳ giá dầu) và **điện** (phòn
 
 ### Phân phối điện
 - **EVN** (chưa niêm yết) — độc quyền truyền tải
-- Các tổng công ty con EVN cũng chưa niêm yết
 
 ## Driver
 

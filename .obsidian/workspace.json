@@ -13,27 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/articles/karpathy-second-brain.md",
+                "file": "wiki/entities/pham-nhat-vuong.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "karpathy-second-brain"
+              "title": "pham-nhat-vuong"
             }
           }
         ]
       },
       {
-        "id": "72db7baaf0151772",
+        "id": "46887b82dbac304b",
         "type": "tabs",
         "children": [
           {
-            "id": "2583bd56eef05af4",
+            "id": "36ac20c21679c8dd",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "raw/articles/karpathy-second-brain.md",
+                "file": "wiki/entities/pham-nhat-vuong.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,12 +56,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.3804375852879973,
+                  "scale": 2.310227938081439,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of karpathy-second-brain"
+              "title": "Graph of pham-nhat-vuong"
             }
           }
         ]
@@ -226,22 +226,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "7cccd7e4fbbb8ab2",
+  "active": "02500b35ef96e56a",
   "lastOpenFiles": [
-    "wiki/sources/source-karpathy-second-brain.md",
-    "wiki/sources/source-buoi-hoc-marketing.md",
-    "wiki/sources/source-buoi-hoc-cham-soc-da.md",
-    "wiki/comparisons/vic-vs-vnm.md",
-    "wiki/comparisons/rag-vs-llm-wiki.md",
-    "wiki/concepts/quan-ly-khach-hang-spa.md",
-    "wiki/index.md",
-    "wiki/concepts/cham-soc-da-co-ban.md",
-    "raw/notes/buoi-hoc-marketing-spa.md",
+    "wiki/entities/msn.md",
+    "wiki/entities/pham-nhat-vuong.md",
+    "wiki/concepts/bat-dong-san.md",
     "raw/articles/karpathy-second-brain.md",
-    "wiki/concepts/second-brain.md",
-    "wiki/entities/andrej-karpathy.md",
-    "wiki/concepts/hoat-chat-skincare.md",
-    "CLAUDE.md",
-    "wiki/concepts/marketing-spa.md"
+    "wiki/comparisons/vic-vs-vnm.md",
+    "wiki/concepts/nang-luong-dau-khi.md",
+    "wiki/concepts/thep.md",
+    "wiki/concepts/ban-le.md",
+    "wiki/concepts/tieu-dung.md",
+    "wiki/concepts/cong-nghe.md",
+    "wiki/concepts/ngan-hang.md",
+    "wiki/concepts/co-phieu-tang-truong.md",
+    "wiki/concepts/co-phieu-chu-ky.md",
+    "wiki/concepts/co-phieu-co-tuc.md",
+    "wiki/concepts/chi-so-tai-chinh.md",
+    "wiki/concepts/vn-stock-101.md",
+    "wiki/entities/gas.md",
+    "wiki/entities/mwg.md",
+    "wiki/entities/hpg.md",
+    "wiki/entities/vic.md",
+    "wiki/entities/vnm.md",
+    "wiki/entities/fpt.md",
+    "wiki/entities/vcb.md",
+    "wiki/sources/source-msn.md",
+    "wiki/sources/source-gas.md",
+    "wiki/sources/source-mwg.md"
   ]
 }

@@ -2,8 +2,7 @@
 title: "GAS — PV GAS"
 type: entity
 sources:
-  - raw/articles/stocks/gas-wikipedia.md
-  - raw/articles/stocks/gas-simplize.md
+  - "[[source-gas]]"
 related:
   - "[[nang-luong-dau-khi]]"
   - "[[vn-stock-101]]"
@@ -16,7 +15,7 @@ confidence: high
 # GAS — Tổng Công ty Khí Việt Nam (PV GAS)
 
 ## Một câu mô tả
-**Nhà phân phối khí LPG/LNG chi phối VN** (>70% thị phần LPG nội địa), công ty con của PVN. Cổ phiếu phòng thủ điển hình — biên lợi nhuận ổn định, cổ tức đều, ít chu kỳ.
+**Nhà phân phối khí LPG/LNG chi phối VN** (>70% thị phần LPG nội địa), công ty con của PVN. Cổ phiếu phòng thủ điển hình — biên ổn định, cổ tức đều, ít chu kỳ.
 
 ## Profile
 
@@ -35,7 +34,7 @@ confidence: high
 - **LNG** (đang triển khai — kho cảng Thị Vải)
 - Condensate, CNG
 
-## Snapshot 2026-04-27
+## Snapshot 2026-04-27 (xem [[source-gas]])
 
 | Chỉ số | Giá trị |
 |--------|---------|
@@ -47,16 +46,17 @@ confidence: high
 
 ## Vì sao đáng quan tâm
 
-1. **Quasi-monopoly** — gần như độc quyền vận chuyển khí từ mỏ ra bờ; rào cản gia nhập cực cao (hạ tầng đường ống tỷ USD).
-2. **LNG là tương lai** — chính phủ đặt mục tiêu giảm than, tăng điện khí; PV GAS là người duy nhất có hạ tầng nhập LNG sẵn sàng.
-3. **Phòng thủ trong khủng hoảng** — khi VN-Index sụp, GAS thường giữ giá tốt hơn.
+1. **Quasi-monopoly** — gần như độc quyền vận chuyển khí từ mỏ ra bờ; rào cản gia nhập tỷ USD
+2. **LNG là tương lai** — chính phủ giảm than, tăng điện khí; PV GAS có hạ tầng nhập LNG sẵn
+3. **Phòng thủ trong khủng hoảng** — khi VN-Index sụp, GAS giữ giá tốt hơn
 
 ## Rủi ro chính
 
-- **Phụ thuộc PVN** — cha mẹ quyết định giá bán nội bộ, chính sách chuyển nhượng
-- **Mỏ khí cũ cạn** — Bạch Hổ, Lan Tây giảm sản lượng → phải nhập LNG (biên thấp hơn)
-- **Giá dầu giảm** → giá khí theo công thức cũng giảm → biên lợi nhuận hẹp
+- **Phụ thuộc PVN** — cha mẹ quyết định giá nội bộ, chính sách chuyển nhượng
+- **Mỏ khí cũ cạn** — Bạch Hổ, Lan Tây giảm sản lượng → phải nhập LNG biên thấp hơn
+- **Giá dầu giảm** → giá khí giảm theo công thức → biên hẹp
 
 ## Liên kết
+- Nguồn: [[source-gas]]
 - Ngành: [[nang-luong-dau-khi]]
 - Khái niệm: [[co-phieu-co-tuc]], [[vn-stock-101]]

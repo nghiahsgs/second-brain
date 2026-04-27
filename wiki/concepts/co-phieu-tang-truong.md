@@ -25,7 +25,6 @@ Cổ phiếu của doanh nghiệp có **EPS tăng nhanh hơn trung bình thị t
 | MWG ([[mwg]]) | 15%/năm (phục hồi) | 17,43 | Phục hồi sau 2023 |
 | MBB | 25%/năm | ~7 | Ngân hàng tư nhân tăng nhanh |
 | VHM | 10%/năm | ~10 | BĐS tăng tốt |
-| HSG | Chu kỳ | - | Không tính growth thuần |
 | PNJ | 15%/năm | ~16 | Trang sức + đô thị hóa |
 | DGC | 30% (chu kỳ) | ~12 | Phốt pho |
 
@@ -53,13 +52,13 @@ Phù hợp cho growth có dòng tiền ổn định.
 
 1. **Tăng trưởng có thể duy trì?** — Tránh growth ăn xổi (1-2 năm rồi giảm)
 2. **Đường biên lợi thế (moat)** — thương hiệu, mạng lưới, công nghệ độc quyền
-3. **Tái đầu tư hiệu quả?** — ROIC (Return on Invested Capital) phải > chi phí vốn
+3. **Tái đầu tư hiệu quả?** — ROIC phải > chi phí vốn
 4. **Quản trị/nhân sự** — leader vision dài hạn
 5. **Chấp nhận biến động lớn** — growth dễ -30% trong 1 quý xấu
 
 ## Bear case của growth
 
-- **Lãi suất tăng** → DCF future cash flows discount mạnh hơn → P/E phải giảm → giá giảm
+- **Lãi suất tăng** → DCF future cash flows discount mạnh hơn → P/E giảm → giá giảm
 - **Cạnh tranh** → biên giảm
 - **Quản trị sai** → đầu tư mở rộng thua lỗ
 

@@ -46,27 +46,26 @@ Cổ phiếu của doanh nghiệp **trả cổ tức tiền mặt cao và đều
 | BMP | ~10% | Nhựa Bình Minh |
 | NTC | ~8% | Khu công nghiệp Nam Tân Uyên |
 | BWE | ~5% | Nước Bình Dương |
-| TCL | ~6% | Tân Cảng Logistics |
 
 ## Cổ tức tiền mặt vs cổ phiếu thưởng
 
 | Loại | Tác động |
 |------|---------|
 | **Tiền mặt** | Bạn nhận tiền vào tài khoản. Bị thuế 5%. |
-| **Cổ phiếu thưởng** (chia tỷ lệ X:Y) | Bạn nhận thêm cp; giá điều chỉnh giảm tương ứng → giá trị danh mục không đổi tại thời điểm chia |
-| **Cổ phiếu phát hành thêm** (issue) | Thường giá ưu đãi cho cổ đông hiện hữu — phải bỏ thêm tiền |
+| **Cổ phiếu thưởng** (X:Y) | Bạn nhận thêm cp; giá điều chỉnh giảm tương ứng → giá trị danh mục không đổi tại thời điểm chia |
+| **Cổ phiếu phát hành thêm** | Giá ưu đãi cho cổ đông hiện hữu — phải bỏ thêm tiền |
 
 ## Quy tắc đầu tư cổ tức
 
 1. **Dividend Aristocrat** — DN trả cổ tức tăng đều >10 năm liên tiếp (VNM gần 20 năm)
-2. **Payout ratio** — % lợi nhuận chia cổ tức. <60% là an toàn, >100% là báo động
-3. **Đa dạng ngành** — đừng dồn vào 1 ngành (ngân hàng + nước + dược + khu công nghiệp)
+2. **Payout ratio** — % lợi nhuận chia. <60% an toàn, >100% báo động
+3. **Đa dạng ngành** — đừng dồn 1 ngành
 4. **Tái đầu tư cổ tức (DRIP)** — lãi kép cộng dồn
 
 ## Khi nào KHÔNG nên ưu tiên cổ tức
 
 - Trong giai đoạn đầu sự nghiệp đầu tư (cần tăng trưởng vốn hơn dòng tiền)
-- Khi lãi suất tiết kiệm cao (cổ tức 7% không hấp dẫn nếu gửi NH 6%)
+- Khi lãi tiết kiệm cao (cổ tức 7% không hấp dẫn nếu gửi NH 6%)
 - Doanh nghiệp đang growth giai đoạn — đừng đòi cổ tức ([[fpt]] vẫn nên giữ tiền tái đầu tư AI)
 
 ## Liên kết
