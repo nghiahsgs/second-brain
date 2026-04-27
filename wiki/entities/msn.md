@@ -31,7 +31,7 @@ confidence: high
 | Công ty con | Lĩnh vực | Vai trò |
 |-------------|----------|---------|
 | **Masan Consumer** | Thực phẩm/đồ uống | Cash cow chính |
-| **WinCommerce** | Bán lẻ (WinMart, WinMart+) | Mua từ Vingroup 2019 |
+| **WinCommerce** | Bán lẻ (WinMart, WinMart+) | Mua từ Vingroup ([[pham-nhat-vuong|Phạm Nhật Vượng]]) 2019 |
 | **Phúc Long** | Trà sữa | Mua 51% năm 2022 (~110 triệu USD) |
 | **Masan MEATLife** | Thịt sạch | Đã thoái dần |
 | **Masan High-Tech Materials** | Wolfram | Khoáng sản hi-tech (EV/AI chip) |
@@ -64,10 +64,11 @@ confidence: high
 ## Rủi ro chính
 
 - **Cấu trúc holding phức tạp** — nhà đầu tư áp "holding discount" 20-30%
-- **Đòn bẩy cao** — nợ tổng tập đoàn lớn từ thương vụ mua VinCommerce
+- **Đòn bẩy cao** — nợ tổng tập đoàn lớn từ thương vụ mua VinCommerce ([[pham-nhat-vuong]] thoái mảng bán lẻ năm 2019)
 - **Biên Masan Consumer giảm** — TH True Mart, Cholimex cạnh tranh
 
 ## Liên kết
 - Nguồn: [[source-msn]]
 - Ngành: [[tieu-dung]], [[ban-le]]
+- Người liên quan: [[pham-nhat-vuong]] (bán VinCommerce → trở thành WinMart 2019)
 - Khái niệm: [[vn-stock-101]]
