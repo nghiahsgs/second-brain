@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/source-buoi-hoc-marketing.md",
+                "file": "raw/articles/karpathy-second-brain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "source-buoi-hoc-marketing"
+              "title": "karpathy-second-brain"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "wiki/sources/source-buoi-hoc-marketing.md",
+                "file": "raw/articles/karpathy-second-brain.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of source-buoi-hoc-marketing"
+              "title": "Graph of karpathy-second-brain"
             }
           }
         ]
@@ -228,16 +228,18 @@
   },
   "active": "7cccd7e4fbbb8ab2",
   "lastOpenFiles": [
-    "wiki/concepts/quan-ly-khach-hang-spa.md",
+    "wiki/sources/source-karpathy-second-brain.md",
     "wiki/sources/source-buoi-hoc-marketing.md",
+    "wiki/sources/source-buoi-hoc-cham-soc-da.md",
+    "wiki/comparisons/vic-vs-vnm.md",
+    "wiki/comparisons/rag-vs-llm-wiki.md",
+    "wiki/concepts/quan-ly-khach-hang-spa.md",
     "wiki/index.md",
     "wiki/concepts/cham-soc-da-co-ban.md",
     "raw/notes/buoi-hoc-marketing-spa.md",
     "raw/articles/karpathy-second-brain.md",
     "wiki/concepts/second-brain.md",
     "wiki/entities/andrej-karpathy.md",
-    "wiki/comparisons/rag-vs-llm-wiki.md",
-    "wiki/sources/source-buoi-hoc-cham-soc-da.md",
     "wiki/concepts/hoat-chat-skincare.md",
     "CLAUDE.md",
     "wiki/concepts/marketing-spa.md"
