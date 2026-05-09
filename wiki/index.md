@@ -49,6 +49,7 @@
 | Trang | Mô tả |
 |-------|-------|
 | [[vic-vs-vnm]] | Cổ phiếu tăng trưởng vs cổ phiếu cổ tức |
+| [[vcb-vs-fpt]] | Phòng thủ (ngân hàng) vs Tăng trưởng (công nghệ) |
 
 ## 📁 Tóm Tắt Nguồn (Sources)
 
@@ -65,7 +66,7 @@
 
 ---
 
-**Tổng cộng:** 30 trang wiki | 16 raw stock files
+**Tổng cộng:** 31 trang wiki | 16 raw stock files
 
 **Đường đọc gợi ý cho người mới:**
 1. [[vn-stock-101]] → 2. [[chi-so-tai-chinh]] → 3. [[co-phieu-chu-ky]] (quy tắc cảnh báo P/E) → 4. Trang ngành quan tâm → 5. Trang mã cụ thể → 6. [[vic-vs-vnm]] (case study)

@@ -3,12 +3,13 @@ title: "FPT — Tập đoàn FPT"
 type: entity
 sources:
   - "[[source-fpt]]"
+  - "[[source-atomic-notes-001-006]]"
 related:
   - "[[cong-nghe]]"
   - "[[vn-stock-101]]"
   - "[[co-phieu-tang-truong]]"
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-08
 confidence: high
 ---
 
@@ -42,12 +43,12 @@ confidence: high
 | P/E | 13,34 | Thấp so với công nghệ thế giới |
 | P/B | 3,43 | Cao — trả giá cho thương hiệu/team |
 | EPS | 5.504 | Tăng đều mỗi năm |
-| **PEG** | **~0,74** | Hiếm — định giá hợp lý cho growth |
+| **PEG** | **~0,74** | Rất hiếm trên HOSE — hầu hết mã VN hoặc P/E cao + growth thấp, hoặc growth không bền. FPT thuộc nhóm hiếm: growth 18-22%/năm liên tục 5+ năm mà P/E vẫn hợp lý |
 | Cổ tức | 2,72% | Đều đặn (tiền + cổ phiếu thưởng) |
 
 ## Vì sao đáng quan tâm
 
-1. **Định vị độc nhất** — không có cổ phiếu công nghệ thuần nào khác trên HOSE
+1. **Monopoly ngành trên sàn** — không có cổ phiếu công nghệ thuần nào khác trên HOSE. Muốn exposure vào tech VN trên sàn nội, chỉ có FPT — không có plan B. Vừa là lợi thế (không bị pha loãng dòng tiền), vừa là rủi ro cho nhà đầu tư (nếu FPT gặp vấn đề, không có mã thay thế cùng ngành)
 2. **Doanh thu USD/JPY** — FPT Software xuất khẩu ~50% doanh thu, hưởng lợi USD mạnh
 3. **AI bandwagon** — đầu tư AI Factory với NVIDIA (2024)
 4. **Cổ đông lâu dài thường thắng** — cổ tức tiền + thưởng đều 15+ năm

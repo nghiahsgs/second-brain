@@ -1,13 +1,14 @@
 ---
 title: "Ngành Ngân hàng VN — Tổng quan"
 type: concept
-sources: []
+sources:
+  - "[[source-atomic-notes-001-006]]"
 related:
   - "[[vcb]]"
   - "[[vn-stock-101]]"
   - "[[chi-so-tai-chinh]]"
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-08
 confidence: high
 ---
 
@@ -44,7 +45,7 @@ Ngân hàng chiếm **~30% vốn hóa VN-Index** — ngành có trọng số l�
 
 | Chỉ số | Ý nghĩa | Mức ngành 2026 |
 |--------|---------|----------------|
-| **NIM** | Biên lãi ròng | 3-4% |
+| **NIM** | Biên lãi ròng — **phải đọc cùng NPL** (NIM cao + NPL cao = ăn lãi nhưng mất gốc) | 3-4% |
 | **NPL** | Nợ xấu | 1,5-2,5% |
 | **CASA** | % tiền gửi không kỳ hạn | 20-50% (cao = vốn rẻ) |
 | **CAR** | An toàn vốn (Basel II) | >8% bắt buộc |

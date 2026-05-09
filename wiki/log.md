@@ -27,6 +27,14 @@
   - ✅ Frontmatter `sources` link tới `[[source-XXX]]` thay vì raw path → graph Obsidian show được
   - ✅ Các nguồn lỗi/cũ được flag rõ trong source-summary (VD: GAS Wiki doanh thu thiếu zero, VIC tài chính 2018, MSN thị phần 2016)
 
+## 2026-05-08
+
+### Query → Save: VCB vs FPT
+- **Thao tác:** Query so sánh VCB vs FPT → lưu thành trang comparison
+- **Trang tạo mới:** `wiki/comparisons/vcb-vs-fpt.md`
+- **Trang cập nhật:** `wiki/index.md` (thêm comparison mới, tổng 31 trang)
+- **Nguồn tham khảo:** [[vcb]], [[fpt]], [[ngan-hang]], [[cong-nghe]], [[chi-so-tai-chinh]], [[co-phieu-tang-truong]]
+
 ### Lưu ý dữ liệu cần verify lần sau
 - **GAS:** Wikipedia ghi doanh thu 2021 = 915 tỷ VND — có vẻ thiếu zero, thực tế ~80.000 tỷ. Verify từ BCTC.
 - **Snapshot Simplize:** giá/P/E ngày 2026-04-27 sẽ lỗi thời nhanh. Lint sau ~1 tháng cần check + cập nhật.

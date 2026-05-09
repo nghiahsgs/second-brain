@@ -1,13 +1,14 @@
 ---
 title: "Cổ phiếu tăng trưởng (Growth stock)"
 type: concept
-sources: []
+sources:
+  - "[[source-atomic-notes-001-006]]"
 related:
   - "[[fpt]]"
   - "[[vic]]"
   - "[[vn-stock-101]]"
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-08
 confidence: high
 ---
 
@@ -39,7 +40,8 @@ Cổ phiếu của doanh nghiệp có **EPS tăng nhanh hơn trung bình thị t
 | 1-2 | Hợp lý |
 | > 2 | Đắt |
 
-VD [[fpt]]: P/E 13,34 / 18% growth = **PEG 0,74** → rẻ.
+VD [[fpt]]: P/E 13,34 / 18% growth = **PEG 0,74** → rẻ. Trên HOSE rất hiếm mã PEG < 1 mà growth thật sự bền (không phải phục hồi 1 năm rồi tắt). Hầu hết mã VN hoặc P/E cao + growth thấp, hoặc growth cao nhưng không bền (chu kỳ).
+
 VD [[vic]]: P/E 144 / EPS chưa rõ growth = không thể dùng PEG.
 
 ### Forward P/E

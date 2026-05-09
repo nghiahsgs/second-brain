@@ -3,12 +3,13 @@ title: "VCB — Vietcombank"
 type: entity
 sources:
   - "[[source-vcb]]"
+  - "[[source-atomic-notes-001-006]]"
 related:
   - "[[ngan-hang]]"
   - "[[vn-stock-101]]"
   - "[[chi-so-tai-chinh]]"
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-08
 confidence: high
 ---
 
@@ -45,13 +46,13 @@ confidence: high
    - Sở hữu nhà nước → CASA cao, niềm tin
    - Khách hàng doanh nghiệp lớn (FDI, xuất nhập khẩu)
    - Quản trị rủi ro chặt → nợ xấu thấp nhất
-2. **Phòng thủ trong khủng hoảng** — sự kiện SCB 2022, VCB là nơi tiền chảy vào trước.
+2. **Phòng thủ trong khủng hoảng** — sự kiện SCB 2022, dân rút tiền ngân hàng tư nhân, chuyển sang VCB. Không phải vì lãi suất tốt — mà vì nhà nước nắm 75%, ngầm hiểu "không thể sập". Đây là lợi thế cạnh tranh không thể copy: TCB, MBB có ROE cao hơn nhưng không có bảo lãnh ngầm này.
 
 ## Rủi ro chính
 
 - **Phụ thuộc chính sách** — lãi suất NHNN, room tín dụng, định hướng cho vay BOT/BĐS
 - **Sở hữu nước ngoài chạm trần 30%** → khó hút thêm vốn ngoại
-- **NIM thấp hơn ngân hàng tư nhân** → tăng trưởng lợi nhuận chậm hơn TCB, MBB
+- **NIM thấp hơn ngân hàng tư nhân** → tăng trưởng lợi nhuận chậm hơn TCB, MBB. Tuy nhiên NIM thấp vì cho vay doanh nghiệp lớn (FDI, xuất nhập khẩu) — lãi thấp nhưng rủi ro thấp, nợ xấu chỉ 0,96%. NIM phải đọc cùng NPL mới có nghĩa (xem [[chi-so-tai-chinh]])
 
 ## Liên kết
 - Nguồn: [[source-vcb]]

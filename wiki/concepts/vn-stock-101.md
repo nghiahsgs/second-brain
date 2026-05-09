@@ -1,7 +1,8 @@
 ---
 title: "Chứng khoán VN 101 — Kiến thức cơ bản"
 type: concept
-sources: []
+sources:
+  - "[[source-atomic-notes-001-006]]"
 related:
   - "[[chi-so-tai-chinh]]"
   - "[[ngan-hang]]"
@@ -12,7 +13,7 @@ related:
   - "[[tieu-dung]]"
   - "[[cong-nghe]]"
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-08
 confidence: high
 ---
 
