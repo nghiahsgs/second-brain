@@ -1,11 +1,12 @@
 ---
 title: "Chỉ số tài chính — đọc cổ phiếu thế nào"
 type: concept
-sources: []
+sources:
+  - "[[source-atomic-notes-001-006]]"
 related:
   - "[[vn-stock-101]]"
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-08
 confidence: high
 ---
 
@@ -72,8 +73,9 @@ ROA quan trọng hơn ROE với ngân hàng (đòn bẩy cao). Ngân hàng tốt
 VD: [[vnm]] Yield 7,9% — bỏ 100tr mua VNM, mỗi năm nhận 7,9tr tiền mặt. So với gửi tiết kiệm 5,5%/năm.
 
 ## Chỉ số đặc thù ngành ngân hàng
-- **NIM** (Net Interest Margin) — biên lãi ròng. [[vcb]] NIM 2,86%; TCB ~4,5%.
+- **NIM** (Net Interest Margin) — biên lãi ròng. [[vcb]] NIM 2,86%; TCB ~4,5%. NIM thấp không nhất thiết là kém — VCB thấp vì cho vay doanh nghiệp lớn (lãi thấp, rủi ro thấp), TCB cao vì cho vay bán lẻ (lãi cao, rủi ro cao hơn).
 - **NPL** (Non-Performing Loan) — nợ xấu. [[vcb]] 0,96% (tốt); ngành 2-3%.
+- **NIM + NPL phải đọc cùng nhau:** NIM cao + NPL cao = ăn lãi nhưng mất gốc. NIM thấp + NPL thấp (như VCB) = bền vững hơn.
 - **CAR** — tỷ lệ an toàn vốn. Tối thiểu 8% Basel II.
 
 ## Chỉ số đặc thù bán lẻ/tiêu dùng

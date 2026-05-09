@@ -35,6 +35,20 @@
 - **Trang cập nhật:** `wiki/index.md` (thêm comparison mới, tổng 31 trang)
 - **Nguồn tham khảo:** [[vcb]], [[fpt]], [[ngan-hang]], [[cong-nghe]], [[chi-so-tai-chinh]], [[co-phieu-tang-truong]]
 
+### Ingest #2: Atomic Notes 001-006 (Zettelkasten)
+- **Nguồn raw:** 6 file `raw/notes/001-..006-.md` — insight cá nhân về chứng khoán VN
+- **Trang tạo mới (1):** `wiki/sources/source-atomic-notes-001-006.md`
+- **Trang cập nhật (7):**
+  - `wiki/entities/vcb.md` — thêm insight SCB bảo lãnh ngầm + NIM đọc cùng NPL
+  - `wiki/entities/fpt.md` — thêm monopoly ngành trên sàn + PEG hiếm trên HOSE
+  - `wiki/concepts/ngan-hang.md` — NIM phải đọc cùng NPL
+  - `wiki/concepts/co-phieu-tang-truong.md` — PEG < 1 hiếm trên HOSE
+  - `wiki/concepts/vn-stock-101.md` — room ngoại con dao hai lưỡi
+  - `wiki/concepts/chi-so-tai-chinh.md` — NIM+NPL phải đọc cùng nhau
+  - `wiki/concepts/co-phieu-chu-ky.md` — thêm source link
+- **Cross-link mới:** ~12 wikilink bổ sung
+- **index.md:** thêm source mới, tổng 32 trang
+
 ### Lưu ý dữ liệu cần verify lần sau
 - **GAS:** Wikipedia ghi doanh thu 2021 = 915 tỷ VND — có vẻ thiếu zero, thực tế ~80.000 tỷ. Verify từ BCTC.
 - **Snapshot Simplize:** giá/P/E ngày 2026-04-27 sẽ lỗi thời nhanh. Lint sau ~1 tháng cần check + cập nhật.

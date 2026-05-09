@@ -1,7 +1,8 @@
 ---
 title: "Cổ phiếu chu kỳ (Cyclical stock)"
 type: concept
-sources: []
+sources:
+  - "[[source-atomic-notes-001-006]]"
 related:
   - "[[hpg]]"
   - "[[thep]]"
@@ -9,7 +10,7 @@ related:
   - "[[nang-luong-dau-khi]]"
   - "[[vn-stock-101]]"
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-08
 confidence: high
 ---
 

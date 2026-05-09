@@ -63,10 +63,11 @@
 | [[source-mwg]] | mwg-{wikipedia,simplize}.md | 2026-04-27 |
 | [[source-gas]] | gas-{wikipedia,simplize}.md | 2026-04-27 |
 | [[source-msn]] | msn-{wikipedia,simplize}.md | 2026-04-27 |
+| [[source-atomic-notes-001-006]] | 6 atomic notes cá nhân (Zettelkasten) | 2026-05-08 |
 
 ---
 
-**Tổng cộng:** 31 trang wiki | 16 raw stock files
+**Tổng cộng:** 32 trang wiki | 16 raw stock files + 6 atomic notes
 
 **Đường đọc gợi ý cho người mới:**
 1. [[vn-stock-101]] → 2. [[chi-so-tai-chinh]] → 3. [[co-phieu-chu-ky]] (quy tắc cảnh báo P/E) → 4. Trang ngành quan tâm → 5. Trang mã cụ thể → 6. [[vic-vs-vnm]] (case study)

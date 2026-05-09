@@ -67,7 +67,7 @@ confidence: high
 - **Lô**: 100 cổ phiếu/lô (HOSE và HNX). Lô lẻ phải bán riêng.
 - **T+2**: mua hôm nay, T+2 mới về tài khoản (HOSE chuyển T+1.5 từ 2024)
 - **Phí**: 0,15-0,3% (tùy CTCK) + thuế bán 0,1%
-- **Sở hữu nước ngoài (FOL)**: ngân hàng 30%; bán lẻ 49%; công nghệ 100%
+- **Sở hữu nước ngoài (FOL)**: ngân hàng 30%; bán lẻ 49%; công nghệ 100%. Room ngoại chạm trần là con dao hai lưỡi: ngoại muốn mua mà không được → chứng tỏ hấp dẫn quốc tế, giá thường premium; nhưng cũng chặn lực cầu mới và khó tăng vốn qua đối tác chiến lược ngoại. VD: [[vcb]], [[fpt]] đều gần/chạm trần
 
 ## "Tiền tươi" vs "ký quỹ"
 - **Cash**: dùng tiền có sẵn
